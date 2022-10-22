@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1661730093831" clover="3.2.0">
+  <project timestamp="1661730093832" name="All files">
+    <metrics statements="4" coveredstatements="3" conditionals="1" coveredconditionals="1" methods="2" coveredmethods="1" elements="7" coveredelements="5" complexity="0" loc="4" ncloc="4" packages="1" files="1" classes="1"/>
+    <file name="Contador.tsx" path="C:\aulareactnative\src\components\Contador\Contador.tsx">
+      <metrics statements="4" coveredstatements="3" conditionals="1" coveredconditionals="1" methods="2" coveredmethods="1"/>
+      <line num="10" count="1" type="cond" truecount="1" falsecount="0"/>
+      <line num="12" count="5" type="stmt"/>
+      <line num="22" count="0" type="stmt"/>
+      <line num="37" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
